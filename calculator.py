@@ -1,4 +1,5 @@
 def calculator():
+    print('тесты запустились')
     print("Доступные операции:")
     print("+ Сложение")
     print("- Вычитание")
@@ -35,4 +36,5 @@ def calculator():
 
 
 if __name__ == "__main__":
+
     calculator()
